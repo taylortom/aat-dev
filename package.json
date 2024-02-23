@@ -18,7 +18,7 @@
     "adapt-authoring-auth": "github:adapt-security/adapt-authoring-auth",
     "adapt-authoring-authored": "github:adapt-security/adapt-authoring-authored",
     "adapt-authoring-config": "github:adapt-security/adapt-authoring-config",
-    "adapt-authoring-core": "github:adapt-security/adapt-authoring-core",
+    "adapt-authoring-core": "github:adapt-security/adapt-authoring-core#azure",
     "adapt-authoring-defaultplugins": "github:adapt-security/adapt-authoring-defaultplugins",
     "adapt-authoring-errors": "github:adapt-security/adapt-authoring-errors",
     "adapt-authoring-jsonschema": "github:adapt-security/adapt-authoring-jsonschema",
