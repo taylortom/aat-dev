@@ -10,6 +10,9 @@ export default {
       'debug'
     ]
   },
+  'adapt-authoring-mongodblogger': {
+    maxLogCount: -1
+  },
   'adapt-authoring-server': {
     port: process.env.PORT,
     verboseErrorLogging: true
