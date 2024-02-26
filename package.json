@@ -12,7 +12,7 @@
     "start": "node ./bin/start"
   },
   "dependencies": {
-    "adapt-authoring-adaptframework": "github:adapt-security/adapt-authoring-adaptframework",
+    "adapt-authoring-adaptframework": "github:adapt-security/adapt-authoring-adaptframework#azure",
     "adapt-authoring-api": "github:adapt-security/adapt-authoring-api",
     "adapt-authoring-assets": "github:adapt-security/adapt-authoring-assets",
     "adapt-authoring-auth": "github:adapt-security/adapt-authoring-auth",
@@ -39,7 +39,6 @@
   },
   "devDependencies": {
     "adapt-authoring-docs": "github:adapt-security/adapt-authoring-docs",
-    "adapt-authoring-testing": "github:adapt-security/adapt-authoring-testing",
     "at-utils": "github:adapt-security/at-utils",
     "eslint": "^8.56.0",
     "standard": "^17.1.0"
