@@ -2,7 +2,11 @@ export default {
   'adapt-authoring-assets': {
     maxFileSize: '500MB'
   },
-  'adapt-authoring-loadauth': {
+  'adapt-authoring-core': {
+    dataDir: '/home/ADAPT/data',
+    tempDir: '/home/ADAPT/temp'
+  },
+  'adapt-authoring-localauth': {
     initialSuperUserEmail: 'dev@kineo.com'
   },
   'adapt-authoring-server': {
