@@ -1,5 +1,5 @@
 FROM node:20
-WORKDIR /usr/src/app
+WORKDIR /home/node/ADAPT/src
 
 COPY package*.json ./
 RUN npm ci --omit=dev
