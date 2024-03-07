@@ -3,3 +3,4 @@ local_adapt_modules
 node_modules
 temp
 .rebuild-ui
+azure_env.json
