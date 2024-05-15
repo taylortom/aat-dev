@@ -12,5 +12,5 @@ RUN apt-get update \
     && echo "root:Docker!" | chpasswd \
     && chmod u+x ./entrypoint.sh
 COPY sshd_config /etc/ssh/
-EXPOSE 3000 8000 2222
+EXPOSE 2222 3000 8000
 ENTRYPOINT [ "./entrypoint.sh" ] 
