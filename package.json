@@ -27,7 +27,7 @@
     "adapt-authoring-langpack-en": "github:adapt-security/adapt-authoring-langpack-en",
     "adapt-authoring-localauth": "github:adapt-security/adapt-authoring-localauth#azure",
     "adapt-authoring-logger": "github:adapt-security/adapt-authoring-logger",
-    "adapt-authoring-mailer": "github:adapt-security/adapt-authoring-mailer",
+    "adapt-authoring-mailer": "github:taylortom/adapt-authoring-mailer",
     "adapt-authoring-middleware": "github:adapt-security/adapt-authoring-middleware",
     "adapt-authoring-mongodb": "github:adapt-security/adapt-authoring-mongodb",
     "adapt-authoring-mongodblogger": "github:adapt-security/adapt-authoring-mongodblogger",
