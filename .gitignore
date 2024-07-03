@@ -4,3 +4,4 @@ node_modules
 temp
 .rebuild-ui
 azure_env.json
+docker-compose.yml
