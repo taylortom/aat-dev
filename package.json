@@ -35,7 +35,7 @@
     "adapt-authoring-server": "github:adapt-security/adapt-authoring-server",
     "adapt-authoring-sessions": "github:adapt-security/adapt-authoring-sessions",
     "adapt-authoring-tags": "github:adapt-security/adapt-authoring-tags",
-    "adapt-authoring-ui": "github:adapt-security/adapt-authoring-ui",
+    "adapt-authoring-ui": "github:adapt-security/adapt-authoring-ui#issue/298-2",
     "adapt-authoring-users": "github:adapt-security/adapt-authoring-users",
     "adapt-authoring-debug": "github:taylortom/adapt-authoring-debug"
   },
